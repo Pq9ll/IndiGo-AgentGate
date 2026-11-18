@@ -1,0 +1,16 @@
+[
+  {
+    "agent_name": "TravelBot",
+    "customer_name": "Vishal",
+    "status": "active",
+    "registered_at": "2026-11-18T23:30:50.844888",
+    "revoked_at": ""
+  },
+  {
+    "agent_name": "SkyAssistant",
+    "customer_name": "Rahul",
+    "status": "active",
+    "registered_at": "2026-11-18T23:30:50.844952",
+    "revoked_at": ""
+  }
+]
