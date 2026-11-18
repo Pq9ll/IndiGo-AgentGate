@@ -9,8 +9,8 @@
   {
     "agent_name": "SkyAssistant",
     "customer_name": "Rahul",
-    "status": "active",
+    "status": "revoked",
     "registered_at": "2026-11-18T23:30:50.844952",
-    "revoked_at": ""
+    "revoked_at": "2026-11-19T00:10:05.301613"
   }
 ]
