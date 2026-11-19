@@ -5,3 +5,10 @@ timestamp,customer,agent_name,action,amount,decision,rule_triggered
 2026-11-19T00:07:45.523408,rahul,skyassistent,book,22000.0,BLOCK,Rule 1: Unknown Agent
 2026-11-19T00:09:11.370531,vishal,	Travelbot,refund,6000.0,BLOCK,Rule 1: Unknown Agent
 2026-11-19T00:11:13.302232,Rahul,SkyAssistant,book,5000.0,BLOCK,Rule 2: Revoked Agent
+2026-11-19T22:57:09.137399,vishal,travelbot,view fares,0.0,ALLOW,Rule 3: Read‑Only Action
+2026-11-19T22:58:17.289187,amit,unknowagent,book,4000.0,BLOCK,Rule 1: Unknown Agent
+2026-11-19T22:59:12.634605,vishal kumar,ravelbot,book,8500.0,BLOCK,Rule 1: Unknown Agent
+2026-11-19T23:03:30.355725,vishal ,travelbot,book,8500.0,ALLOW,"Rule 4: Booking within ₹15,000 limit"
+2026-11-19T23:11:41.771942,rahul,skyassistant,book,22000.0,BLOCK,Rule 2: Revoked Agent
+2026-11-19T23:13:00.416034,vishal ,travelbot,refund,6000.0,ASK CUSTOMER,Rule 7: Refund requires customer confirmation
+2026-11-19T23:15:09.570727,rahul ,SkyAssistant,book,5000.0,BLOCK,Rule 2: Revoked Agent

@@ -2,9 +2,9 @@
   {
     "agent_name": "TravelBot",
     "customer_name": "Vishal",
-    "status": "active",
+    "status": "revoked",
     "registered_at": "2026-11-18T23:30:50.844888",
-    "revoked_at": ""
+    "revoked_at": "2026-11-19T23:14:07.881652"
   },
   {
     "agent_name": "SkyAssistant",
